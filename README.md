@@ -21,6 +21,21 @@
 ---
 
 ### :student: About Me :
+I am studying to be a game analyst.
+- :muscle: My purpose is to become a game analyst in the near future
+- :uk: I'm learning English right now
+- :video_game: Games as a state of mind
+- :test_tube: Analysis as a lifestyle
+- :orange_heart: Pandas enjoyer
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+<div>
 
 
 
