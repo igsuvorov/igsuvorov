@@ -11,8 +11,8 @@
   </a>
 </div>
 <h1 id="header" align="center">
-  Добрый день everybody
-  <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="30px"/>
+  Dobryj den' everybody
+  <img src="https://media.giphy.com/media/VFenY8Hh3g4Lxbzghy/giphy.gif" width="100px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/ywECUVXt35bJ8td9wg/giphy.gif" width="400" height="300"/>
