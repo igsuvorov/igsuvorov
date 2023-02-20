@@ -14,8 +14,13 @@
   Добрый день everybody
   <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/ywECUVXt35bJ8td9wg/giphy.gif" width="400" height="300"/>
+</div>
 
+---
 
+### :student: About Me :
 
 
 
