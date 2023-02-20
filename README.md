@@ -32,9 +32,12 @@ I am studying to be a game analyst.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/igsuvorov/Employee_database_analysis/blob/main/sql-file-format-svgrepo-com.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/igsuvorov/Images/blob/main/sql-file-format-svgrepo-com.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="70" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="" width="40" height="40"/>&nbsp;
   <img src="" width="40" height="40"/>&nbsp;
   <img src="" width="40" height="40"/>&nbsp;
