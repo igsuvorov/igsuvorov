@@ -32,16 +32,16 @@ I am studying to be a game analyst.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/igsuvorov/devicon/blob/main/icons/sql-file-format-svgrepo-com.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/sql-file-format-svgrepo-com.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="70" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/igsuvorov/devicon/blob/main/icons/matplotlib-seeklogo.com.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/matplotlib-seeklogo.com.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/igsuvorov/devicon/blob/main/icons/Scikit_learn_logo_small.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Scikit_learn_logo_small.svg" width="50" height="50"/>&nbsp;
 <div>
 
 
