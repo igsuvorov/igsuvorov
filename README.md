@@ -32,7 +32,7 @@ I am studying to be a Game/Data Analyst.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/sql-file-format-svgrepo-com.svg" width="1000" height="70"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/sql-file-format-svgrepo-com.svg" width="500" height="500"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Google_Sheets_Logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>&nbsp;
