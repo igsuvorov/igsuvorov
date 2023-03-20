@@ -39,7 +39,7 @@ I am studying to be a Game/Data Analyst.
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/yandex_appmetrica.svg" width="90" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="90" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="100" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/matplotlib-seeklogo.com.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" width="50" height="50"/>&nbsp;
