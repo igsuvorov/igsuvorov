@@ -37,6 +37,7 @@ I am studying to be a Game/Data Analyst.
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Google_Sheets_Logo.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/yandex_appmetrica.svg" width="90" height="60"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/icons8-tableau-software.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="90" height="70"/>&nbsp;
