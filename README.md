@@ -34,6 +34,7 @@ I am studying to be a Game/Data Analyst.
 <div>
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/sql-file-format-svgrepo-com.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ClickHouse/ClickHouse/blob/master/docs/zh/images/logo.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Google_Sheets_Logo.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/yandex_appmetrica.svg" width="90" height="60"/>&nbsp;
