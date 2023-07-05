@@ -45,7 +45,7 @@ I am studying to be a Game/Data Analyst.
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Scikit_learn_logo_small.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/icons8-tableau-software.svg" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/icons8-tableau-software.svg" width="60" height="60"/>&nbsp;
 <div>
 
 
