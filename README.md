@@ -38,6 +38,7 @@ I am studying to be a Game/Data Analyst.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/yandex_appmetrica.svg" width="90" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/icons8-tableau-software.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="90" height="70"/>&nbsp;
@@ -46,7 +47,6 @@ I am studying to be a Game/Data Analyst.
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/igsuvorov/igsuvorov/blob/main/Scikit_learn_logo_small.svg" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/igsuvorov/igsuvorov/blob/main/icons8-tableau-software.svg" width="50" height="50"/>&nbsp;
 <div>
 
 
