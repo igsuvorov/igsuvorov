@@ -21,8 +21,8 @@
 ---
 
 ### :student: About Me :
-I am studying to be a Game/Data Analyst.
-- :muscle: My purpose is to become a game/data analyst in the near future
+I am a Game/Data Analyst.
+- :muscle: My purpose is to be a  super high skilled data analyst 
 - 🇬🇧: I'm learning English right now
 - :video_game: Games as a state of mind
 - :test_tube: Analysis as a lifestyle
