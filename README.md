@@ -21,7 +21,7 @@
 ---
 
 ### :student: About Me :
-I am a Game/Data Analyst.
+I am a Data Analyst.
 - :muscle: My purpose is to be a  super high skilled data analyst 
 - 🇬🇧: I'm learning English right now
 - :video_game: Games as a state of mind
